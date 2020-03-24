@@ -1,4 +1,4 @@
-# Home Information Hub
+# Park-Smart With LoRa
 
 Technology Stack:  C++ | JavaScript | AWS | Cloud | HTML5 | CSS3.
 
